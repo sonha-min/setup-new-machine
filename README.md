@@ -34,28 +34,13 @@ So, `700` means:
 Purpose: The purpose of the `~/.ssh` directory is to store SSH keys and configuration files that allow secure communication with remote servers.
 ```
 
-### Generate SSH keys
-
-```bash
-ssh-keygen -t ed25519 -C "your_email@example.com"
-```
-
-### Configure SSH keys
-
-- Add the public key to your GitHub account
-- Add the private key to your SSH config file
-
-```bash
-# ~/.ssh/config
-Host github.com # or any other host
-  HostName github.com
-  User git
-  IdentityFile ~/.ssh/<your_private_key>
-```
+Read more about SSH keys [here](https://github.com/vosonha/RoR-Training/blob/main/Notes/git.md)
 
 ## 3. Install tool
 
 ### Git
+
+Read more about git [here](https://github.com/vosonha/RoR-Training/blob/main/Notes/git.md)
 
 git
 
