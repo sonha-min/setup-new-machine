@@ -34,7 +34,7 @@ So, `700` means:
 Purpose: The purpose of the `~/.ssh` directory is to store SSH keys and configuration files that allow secure communication with remote servers.
 ```
 
-Read more about SSH keys [here](https://github.com/vosonha/RoR-Training/blob/main/Notes/git.md)
+Read more about SSH keys [here](https://github.com/vosonha/RoR-Training/blob/main/Notes/git.md#clone-repo)
 
 ## 3. Install tool
 
